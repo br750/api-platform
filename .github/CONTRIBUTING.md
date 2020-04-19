@@ -2,7 +2,7 @@
 
 First of all, thank you for contributing, you're awesome!
 
-To have your code integrated in the API Platform project, there is some rules to follow, but don't panic, it's easy!
+To have your code integrated in the API Platform project, there are some rules to follow, but don't panic, it's easy!
 
 ## Reporting Bugs
 
@@ -16,7 +16,7 @@ Then, if it appears that it's a real bug, you may report it using Github by foll
   * A clear title to resume the issue
   * A description of the workflow needed to reproduce the bug,
 
-> _NOTE:_ Don’t hesitate giving as much information as you can (OS, PHP version extensions...)
+> _NOTE:_ Don’t hesitate to give as much information as you can (OS, PHP version extensions...)
 
 ## Pull Requests
 
@@ -51,7 +51,7 @@ When you send a PR, just make sure that:
   so he/she will get a notification.
 * Squash your commits into one commit. (see the next chapter)
 
-All Pull Requests must include the following header:
+Fill in the following header from the pull request template:
 
 ```markdown
 | Q             | A
@@ -96,8 +96,8 @@ git push --force
 
 # License and Copyright Attribution
 
-When you open a Pull Request to the API Platform project, you agree to license your code under the [MIT license](LICENSE)
-and to transfer the copyright on the submitted code to Kévin Dunglas.
+When you open a Pull Request to the API Platform project, you agree to license your code under the [MIT license](../LICENSE)
+and to transfer the copyright on the submitted code to [Kévin Dunglas](https://github.com/dunglas).
 
 Be sure to you have the right to do that (if you are a professional, ask your company)!
 
